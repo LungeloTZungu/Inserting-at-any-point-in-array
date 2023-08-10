@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertingAnywhereInArray", "InsertingAnywhereInArray.csproj", "{C2AA4074-7708-46FB-A53E-A0311E96931E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AA4074-7708-46FB-A53E-A0311E96931E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AA4074-7708-46FB-A53E-A0311E96931E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AA4074-7708-46FB-A53E-A0311E96931E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AA4074-7708-46FB-A53E-A0311E96931E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B262D80-C9BF-43E0-8A36-249A051664A6}
+	EndGlobalSection
+EndGlobal
